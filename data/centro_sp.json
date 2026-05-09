@@ -1,9 +1,0 @@
-{
-  "vertices": [
-    {"id": 1, "nome": "Estação da Luz"},
-    {"id": 2, "nome": "SESC 24 de Maio"}
-  ],
-  "arestas": [
-    { "origem": 1, "destino": 2, "distancia": 450, "seguranca": 1.5 }
-  ]
-}
